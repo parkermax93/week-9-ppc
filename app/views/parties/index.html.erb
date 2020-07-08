@@ -1,7 +1,7 @@
 <ul>
 <% @parties.each do |party| %>
    <li>
-    <%= party.name %>
+    <%= link_to party.name, party_path(party) %>
     <%= party.date %>
     </li>
 <% end %>
