@@ -1,12 +1,12 @@
 # Instructions
 
-- Make a Party model with the following attributes:
-   - name
-   - date
-   - category
-   - supplies
-   - budget
-   - private (boolean)
+- Make a Party model with the following attributes:#
+   - name#
+   - date#
+   - category#
+   - supplies#
+   - budget#
+   - private (boolean)#
 - Make an index view to display all party names and dates
 - Add Party seed data
 - Order this list by date
